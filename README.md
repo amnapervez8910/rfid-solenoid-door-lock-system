@@ -72,9 +72,3 @@ RFID_Solenoid_Door_Lock_System_Report.pdf
 - Restricted area security
 
 ---
-
-## 👨‍💻 Author
-
-**Amna Pervez**
-
----
