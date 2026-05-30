@@ -54,13 +54,14 @@ The system authenticates users through RFID cards/tags and unlocks the door upon
 
 ---
 
-## 📄 Project Report
+## 📄 Project Report & Code
 
-The complete project report is included in this repository:
+The complete project report with circuit diagram, working details, and outputs is included in this repository:
 
-```text
-RFID_Solenoid_Door_Lock_System_Report.pdf
-```
+| File | Description |
+|------|-------------|
+| `RFID_Solenoid_Door_Lock_System_Report.pdf` | Full project report |
+| `arduino_code.ino` | Arduino source code |
 
 ---
 
